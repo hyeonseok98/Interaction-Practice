@@ -2,6 +2,9 @@
 
 ---
 
+![day2_cardHoverEffect](https://github.com/hyeonseok98/Interaction-Practice/assets/157561573/4ed91de2-6f02-444f-86aa-e24dfc748144)
+
+
 출처: https://www.youtube.com/watch?v=Q8BamnhOmWc
 
 #### [새롭게 알게된 점]
